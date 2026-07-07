@@ -1,5 +1,7 @@
 # kervo experiments
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21239120.svg)](https://doi.org/10.5281/zenodo.21239120)
+
 Pre-registered experiments and the raw evidence behind
 [kervo](https://github.com/kervo-os/kervo)'s claims.
 
